@@ -29,8 +29,8 @@ def nearest_intersected_object(objects, ray_origin, ray_direction):
             nearest_object = objects[index]
     return nearest_object, min_distance
 
-width = 1200
-height = 900
+width = 600
+height = 400
 
 max_depth = eval(input("Enter max reflections: "))
 # max_depth = 10

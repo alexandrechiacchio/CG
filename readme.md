@@ -1,6 +1,10 @@
 # Trabalho de Ray Tracing
 
-Para rodar rodar instale os modulos encontrados em requirements.txt e então rode raytracing.py com o comando:
+Para rodar rodar instale os modulos encontrados em requirements.txt com o comando
+
+```pip install -r requirements.txt```
+
+ e então rode raytracing.py com o comando:
 
 ```python3 rayTracing.py```
 
