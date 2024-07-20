@@ -8,5 +8,4 @@ e siga os prompts.
 
 Uma imagem `image.png` será gerada como a imagem de exemplo abaixo:
 
-![imagem de exemplo](image.png)
-
+![imagem de exemplo](example_image.png)
